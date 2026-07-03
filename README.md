@@ -206,6 +206,7 @@ For a full list of all contributors, see [GitHub Contributors](https://github.co
 - ⚙️ [Gridvex API](https://api.gridvex.app/docs/api) - Free F1 REST API with comprehensive endpoints
 - 🤖 [OvertakeGP](https://play.google.com/store/apps/details?id=com.kkgosu.overtakegp) – OvertakeGP is a fast, focused Formula 1® companion that brings decades of racing data into one clean app
 - ⚙️ [RacingHub API](https://racinghub.net/api/v1/docs) – Free & open-source F1 REST API with Python/JS clients and MCP support
+- 🌐 [FlatSpot.Club](https://flatspot.club/) – Comprehensive Formula 1 history website featuring biographies, events, teams, timelines and historical statistics
 
 Are you using F1DB? We'd love to feature your project!\
 Please send us a message, create an [issue](https://github.com/f1db/f1db/issues/new), or open a pull request to add it here.
